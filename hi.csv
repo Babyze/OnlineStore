@@ -1,2 +1,2 @@
-sku,name,image,small_image,thumbnail
-SV-ELD-Thorskur,Bakadur thorskur,https://dev.aha.is/media/catalog/product/p/r/prag_myndir--04.jpeg,https://dev.aha.is/media/catalog/product/p/r/prag_myndir--04.jpeg,https://dev.aha.is/media/catalog/product/p/r/prag_myndir--04.jpeg
+sku,attribute_set,type,name,price,status,visibility,tax_class_id,weight,websites,image
+TH-COLLISION-TEST,Default,simple,Thumbhash collision test,100,1,4,None,0,base,https://dev.aha.is/media/catalog/product/p/r/prag_myndir--04.jpeg
