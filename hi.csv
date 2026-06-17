@@ -1,2 +1,4 @@
 sku,attribute_set,type,name,price,status,visibility,tax_class_id,weight,websites,image
-TH-COLLISION-TEST-05,Default,simple,Thumbhash collision test 05,100,1,4,None,0,base,https://img.aha.is/products/1/7/1739878162776-EastGateCafeandBakery_Discovery.jpg
+TH-COLLISION-TEST-06,Default,simple,Thumbhash collision test 06,100,1,4,None,0,base,https://raw.githubusercontent.com/Babyze/OnlineStore/refs/heads/master/images/product-image.jpg
+TH-COLLISION-TEST-07,Default,simple,Thumbhash collision test 07,100,1,4,None,0,base,https://raw.githubusercontent.com/Babyze/OnlineStore/refs/heads/master/images/a/product-image.jpg
+TH-COLLISION-TEST-08,Default,simple,Thumbhash collision test 08,100,1,4,None,0,base,https://raw.githubusercontent.com/Babyze/OnlineStore/refs/heads/master/images/b/product-image.jpg
